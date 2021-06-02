@@ -1,1 +1,1 @@
-worker: fukinggay.py
+worker: yourstepsi.py
